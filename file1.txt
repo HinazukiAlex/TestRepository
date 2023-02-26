@@ -1,3 +1,4 @@
 Something about file 1
 Now it's on Git
 With SSH
+new string in file1

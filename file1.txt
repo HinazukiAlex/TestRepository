@@ -1,4 +1,4 @@
 Something about file 1
-Now it's on Git
+Now it's on Git -> some change from user2
 With SSH
 new string in file1

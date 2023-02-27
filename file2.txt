@@ -1,3 +1,4 @@
 Something about file 2
 line from user2
 another change from user2
+line from user2 - lesson about rebase
